@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1677079228 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_InputValidation/src/clsInputValidate.cpp
+	"clsInputValidate.h"
+
+1677166088 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_InputValidation/include/clsInputValidate.h
+	<iostream>
+	"../../../Cpp_OOP_L1/OOP_Projects_Date/include/clsDate.h"
+	<string>
+	"../../../Cpp_OOP_L1/OOP_Project_String_Class/include/clsString.h"
+	<limits>
+	<utility>
+
+1677040242 /home/mus/Dropbox/C++Programming/Cpp_OOP_L1/OOP_Projects_Date/include/clsDate.h
+	<iostream>
+	<vector>
+	<string>
+	<stdio.h>
+	"../../OOP_Project_String_Class/include/clsString.h"
+
+1677130428 /home/mus/Dropbox/C++Programming/Cpp_OOP_L1/OOP_Project_String_Class/include/clsString.h
+	<iostream>
+	<string>
+	<vector>
+
+1677120572 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_InputValidation/main.cpp
+	<iostream>
+	"clsInputValidate.h"
+
